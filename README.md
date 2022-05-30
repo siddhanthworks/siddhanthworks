@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddhanthworks
 - 👀 I’m interested in Machine Learning and Data Science
-- 💞️ I’m looking to work in the Data Science Industry  
+- 💞️ I am open to work in the Data Science Industry  
 - 📫 How to reach me siddhanthworks@gmail.com
 
 <!---
